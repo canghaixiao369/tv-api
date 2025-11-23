@@ -5,8 +5,9 @@ ip_version_priority = "ipv4"
 
 # 直播源URL列表
 source_urls = [
+    
     "https://gh-proxy.com/https://raw.githubusercontent.com/lwzlinyi/ziyong/refs/heads/main/live",
-    "https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py",
+    "https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E5%8E%86%E5%B9%B4%E6%98%A5%E6%99%9A.txt",
     "https://itv.aptv.app/china-iptv/zgyd.m3u",
     "http://is.is-great.org/i/0885557.txt",
     "https://115.190.105.236/vip/qwt.m3u",
