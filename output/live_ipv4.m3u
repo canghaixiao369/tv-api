@@ -126,7 +126,7 @@ http://go.bkpcp.top/mg/gddwq$IPV4•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="大湾区卫视" tvg-logo="./pic/logos大湾区卫视.png" group-title="🍎┃广东频道",大湾区卫视
 http://106.53.99.30/tv/migu.php?id=dwqws$IPV4•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="大湾区卫视" tvg-logo="./pic/logos大湾区卫视.png" group-title="🍎┃广东频道",大湾区卫视
-http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2025112306003553b22d8ad7b243f7973b426f7775e58a&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f3c137ef5461d3cfd5c6c245c9e7e0a3&ddCalcu=3fa3e0c2e18730e79ecf554426c16dc35cdf$IPV4•线路9
+http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2025112308005099522037dcaa456bad1748b063d8019f&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=afe8e04059d786a59e473b6e7a750a7a&ddCalcu=aa7feae20885e070a470e569bd377846ea95$IPV4•线路9
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="./pic/logosCCTV1.png" group-title="🥝┃央视频道",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="./pic/logosCCTV1.png" group-title="🥝┃央视频道",CCTV1
@@ -1390,13 +1390,13 @@ http://116.162.127.31:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000
 #EXTINF:-1 tvg-id="3" tvg-name="CETV1" tvg-logo="./pic/logosCETV1.png" group-title="🥝┃央视频道",CETV1
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="CETV1" tvg-logo="./pic/logosCETV1.png" group-title="🥝┃央视频道",CETV1
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=20251123060039176fe2af7f1c45c3ba5c0163e211c936&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251123060039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.89&SecurityKey=20251123060039&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b93579af6a06c1847d0eb33ca8bc6307&ddCalcu=7b09e332653c70b98aafc63a30b6ec01d874$IPV4•线路4
+http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=20251123080053bccd4c29f81b4d458474cae0f24d4f6c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251123080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.88&SecurityKey=20251123080053&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=84e40d268ef68c0cc4ca16909d1b40a1&ddCalcu=18a4e0e2443b001dd296089e6f16a8cc40cc$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="CETV1" tvg-logo="./pic/logosCETV1.png" group-title="🥝┃央视频道",CETV1
 http://ygbh.site/php/bfgd.php?id=135$IPV4•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="CETV2" tvg-logo="./pic/logosCETV2.png" group-title="🥝┃央视频道",CETV2
 http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CETV2" tvg-logo="./pic/logosCETV2.png" group-title="🥝┃央视频道",CETV2
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20251123060040717387787a284a88889b8f87567e3908&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251123060040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.89&SecurityKey=20251123060040&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2941508ff8e7ab869c304e25fb09fde2&ddCalcu=22e9ed42f1395000b8ff5f28ee470a3bc896$IPV4•线路2
+http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=202511230800548cc4136b76a94ff6b7f76a31affe9d4b&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251123080054&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.88&SecurityKey=20251123080054&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9bf0ca14b4033685609d34c61d27786b&ddCalcu=b96be8f27037c02ad1146bc44033d3960865$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="CETV2" tvg-logo="./pic/logosCETV2.png" group-title="🥝┃央视频道",CETV2
 http://ygbh.site/php/bfgd.php?id=492$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="CETV4" tvg-logo="./pic/logosCETV4.png" group-title="🥝┃央视频道",CETV4
@@ -1410,7 +1410,7 @@ http://116.162.127.31:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000
 #EXTINF:-1 tvg-id="5" tvg-name="CETV4" tvg-logo="./pic/logosCETV4.png" group-title="🥝┃央视频道",CETV4
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="CETV4" tvg-logo="./pic/logosCETV4.png" group-title="🥝┃央视频道",CETV4
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=202511230600403facc1c6509847ea9e3670464c557e01&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251123060040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.89&SecurityKey=20251123060040&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=931229037986124852885178eedf8edc&ddCalcu=c9d3ee12823f20d9e0e38779185681822458$IPV4•线路6
+http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=20251123080054ed700919fad04859a43e34cc48f5b052&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251123080054&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.88&SecurityKey=20251123080054&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d61c764c1a8d7f6d6bcc202d62f30501&ddCalcu=1d06e5120c3370f6246cd12a082dc7cfb66d$IPV4•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="./pic/logos浙江卫视.png" group-title="🥭┃卫视频道",浙江卫视
 http://iptv.huuc.edu.cn/hls/zjhd.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="./pic/logos浙江卫视.png" group-title="🥭┃卫视频道",浙江卫视
@@ -1604,7 +1604,7 @@ http://106.53.99.30/tv/migu.php?id=dfws$IPV4•线路24
 #EXTINF:-1 tvg-id="25" tvg-name="东方卫视" tvg-logo="./pic/logos东方卫视.png" group-title="🥭┃卫视频道",东方卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路25
 #EXTINF:-1 tvg-id="26" tvg-name="东方卫视" tvg-logo="./pic/logos东方卫视.png" group-title="🥭┃卫视频道",东方卫视
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=20251123060034cf9e99564c064d4da8f68dfbc6d5ca27&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251123060034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.89&SecurityKey=20251123060034&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1b38b166d1db37c48608fa4e6b9f7b0d&ddCalcu=d10beb32781fb091b666ed41adfb83076c84$IPV4•线路26
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=20251123080049f4984db56a2542b1a2c78bdb91586b31&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251123080049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.88&SecurityKey=20251123080049&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e6943c2ba841a51c3d345aceb926a038&ddCalcu=8e36e092a416302c92bbeac8a4514a35d13c$IPV4•线路26
 #EXTINF:-1 tvg-id="27" tvg-name="东方卫视" tvg-logo="./pic/logos东方卫视.png" group-title="🥭┃卫视频道",东方卫视
 http://ygbh.site/php/bfgd.php?id=093$IPV4•线路27
 #EXTINF:-1 tvg-id="28" tvg-name="东方卫视" tvg-logo="./pic/logos东方卫视.png" group-title="🥭┃卫视频道",东方卫视
@@ -1680,7 +1680,7 @@ http://106.53.99.30/tv/migu.php?id=jsws$IPV4•线路30
 #EXTINF:-1 tvg-id="31" tvg-name="江苏卫视" tvg-logo="./pic/logos江苏卫视.png" group-title="🥭┃卫视频道",江苏卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路31
 #EXTINF:-1 tvg-id="32" tvg-name="江苏卫视" tvg-logo="./pic/logos江苏卫视.png" group-title="🥭┃卫视频道",江苏卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=2025112306003494fe8bfaf4e3476c8dd1914e6b303138&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251123060034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20251123060034&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=df4f4e10f22027f81c0d65139d3a406d&ddCalcu=dd6fe0424f3a403ed1903f125260d207cf18$IPV4•线路32
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=2025112308004911b47e7160ac43fea2d4588b731f8d84&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251123080049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.88&SecurityKey=20251123080049&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9913fa43a21ff8e6ee3540b48bebf355&ddCalcu=5959e312f33bf0eab4834ab2014f5f38eee6$IPV4•线路32
 #EXTINF:-1 tvg-id="33" tvg-name="江苏卫视" tvg-logo="./pic/logos江苏卫视.png" group-title="🥭┃卫视频道",江苏卫视
 http://ygbh.site/php/bfgd.php?id=085$IPV4•线路33
 #EXTINF:-1 tvg-id="34" tvg-name="江苏卫视" tvg-logo="./pic/logos江苏卫视.png" group-title="🥭┃卫视频道",江苏卫视
@@ -2476,7 +2476,7 @@ http://106.53.99.30/tv/migu.php?id=hnws$IPV4•线路26
 #EXTINF:-1 tvg-id="27" tvg-name="河南卫视" tvg-logo="./pic/logos河南卫视.png" group-title="🥭┃卫视频道",河南卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路27
 #EXTINF:-1 tvg-id="28" tvg-name="河南卫视" tvg-logo="./pic/logos河南卫视.png" group-title="🥭┃卫视频道",河南卫视
-http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=20251123060035d0670915a6794760b594dca6e1444c88&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4c6659c1b001e6bd3d8b845fccd4f2a6&ddCalcu=64ace262f60450d9ccc1fb504081be86db3d$IPV4•线路28
+http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202511230800490652a93fad054858a6e82fb55b662a7f&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251123080049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.88&SecurityKey=20251123080049&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a17c9ef5ad5c96c455e49d3f5f2c14d1&ddCalcu=1ad1e4721c0c902eff55fa3dd59c49e65c54$IPV4•线路28
 #EXTINF:-1 tvg-id="29" tvg-name="河南卫视" tvg-logo="./pic/logos河南卫视.png" group-title="🥭┃卫视频道",河南卫视
 http://ygbh.site/php/bfgd.php?id=339$IPV4•线路29
 #EXTINF:-1 tvg-id="30" tvg-name="河南卫视" tvg-logo="./pic/logos河南卫视.png" group-title="🥭┃卫视频道",河南卫视
@@ -2606,7 +2606,7 @@ http://106.53.99.30/tv/migu.php?id=hubws$IPV4•线路28
 #EXTINF:-1 tvg-id="29" tvg-name="湖北卫视" tvg-logo="./pic/logos湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路29
 #EXTINF:-1 tvg-id="30" tvg-name="湖北卫视" tvg-logo="./pic/logos湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=202511230600350cdeea2debee47f5b7c12016585dc8cc&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=898467a33f2a66cb31f7a0935202ebd9&ddCalcu=98d9eb82e47260072a53339f02aa76f61c3b$IPV4•线路30
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=202511230800504395cde7da0641cf91975ca2d04d36d5&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0156ac8ca479cbdad25ad88dfbb059f0&ddCalcu=00f1e9525670a0bcb8fcda8487d9ac5b2dda$IPV4•线路30
 #EXTINF:-1 tvg-id="31" tvg-name="湖北卫视" tvg-logo="./pic/logos湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
 http://ygbh.site/php/bfgd.php?id=102$IPV4•线路31
 #EXTINF:-1 tvg-id="32" tvg-name="湖北卫视" tvg-logo="./pic/logos湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
@@ -2670,7 +2670,7 @@ http://106.53.99.30/tv/migu.php?id=jxws$IPV4•线路25
 #EXTINF:-1 tvg-id="26" tvg-name="江西卫视" tvg-logo="./pic/logos江西卫视.png" group-title="🥭┃卫视频道",江西卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路26
 #EXTINF:-1 tvg-id="27" tvg-name="江西卫视" tvg-logo="./pic/logos江西卫视.png" group-title="🥭┃卫视频道",江西卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20251123060035200c284b97d148898fe9a67e4bfd3ccd&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7ecd38b81e8fc31659e14311fc8dd583&ddCalcu=378ee5c2dd3d3088cbf8111e384f1ce39156$IPV4•线路27
+http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=202511230800499c50cb635e8c416793eef2c5f0e4d7e9&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251123080049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.88&SecurityKey=20251123080049&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=359d0668604a82d1245ae9c2531c233a&ddCalcu=a335e3922d3c0016365826c094eaa8524d21$IPV4•线路27
 #EXTINF:-1 tvg-id="28" tvg-name="江西卫视" tvg-logo="./pic/logos江西卫视.png" group-title="🥭┃卫视频道",江西卫视
 http://ygbh.site/php/bfgd.php?id=098$IPV4•线路28
 #EXTINF:-1 tvg-id="29" tvg-name="江西卫视" tvg-logo="./pic/logos江西卫视.png" group-title="🥭┃卫视频道",江西卫视
@@ -2734,7 +2734,7 @@ http://106.53.99.30/tv/migu.php?id=jlws$IPV4•线路24
 #EXTINF:-1 tvg-id="25" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="🥭┃卫视频道",吉林卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路25
 #EXTINF:-1 tvg-id="26" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="🥭┃卫视频道",吉林卫视
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251123060035af638fe1c06943fabb042bf9dfc0eb91&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=53b6e8aec83346c333551000fbd03e07&ddCalcu=7503eeb23670e0d8bafe0c08031354563c33$IPV4•线路26
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251123080050151db06c85ab44678248067cbc2afee4&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1854ad108fa1f5817bab5c8ea57e0450&ddCalcu=0158e452047ea07d51a0e88fca51bfa5b871$IPV4•线路26
 #EXTINF:-1 tvg-id="27" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="🥭┃卫视频道",吉林卫视
 http://ygbh.site/php/bfgd.php?id=097$IPV4•线路27
 #EXTINF:-1 tvg-id="28" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="🥭┃卫视频道",吉林卫视
@@ -2826,7 +2826,7 @@ http://106.53.99.30/tv/migu.php?id=lnws$IPV4•线路24
 #EXTINF:-1 tvg-id="25" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路25
 #EXTINF:-1 tvg-id="26" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=202511230600369a59d70f20e34fe6b429082ce64a7243&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251123060036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.89&SecurityKey=20251123060036&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ecee354a7bfb64c5e5a31dcd24318038&ddCalcu=8e3ce0e28e013035442ad7cbdf1b36a45ce5$IPV4•线路26
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20251123080050ae721a63fc7648ef85e6c2b1463d54d8&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=775e55345618c5aa22b6bd0ee2708d77&ddCalcu=7777ed528e00507523e4e506d1b86cb52a2a$IPV4•线路26
 #EXTINF:-1 tvg-id="27" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
 http://111.43.126.240:9003/hls/57/index.m3u8$IPV4•线路27
 #EXTINF:-1 tvg-id="28" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
@@ -2868,7 +2868,7 @@ http://171.213.213.126:4000/rtp/239.11.0.57:5140$IPV4•线路14
 #EXTINF:-1 tvg-id="15" tvg-name="宁夏卫视" tvg-logo="./pic/logos宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
 http://106.53.99.30/tv/migu.php?id=nxws$IPV4•线路15
 #EXTINF:-1 tvg-id="16" tvg-name="宁夏卫视" tvg-logo="./pic/logos宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20251123060036d92b2c91b8f84adb8f0bab444614556a&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251123060036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=106.13.250.89&SecurityKey=20251123060036&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=56767c1a9d560f44f983e8931f6c703f&ddCalcu=f536e072768c706cf11a399d85e6308f94f4$IPV4•线路16
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20251123080050c6f7e88c41b54207a2a2a78a179780c9&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d3799cd9bd055d0fd8a5281d0386b09e&ddCalcu=ed93e072b986908c3d09db1d802555ad80df$IPV4•线路16
 #EXTINF:-1 tvg-id="17" tvg-name="宁夏卫视" tvg-logo="./pic/logos宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
 http://111.43.126.240:9003/hls/67/index.m3u8$IPV4•线路17
 #EXTINF:-1 tvg-id="18" tvg-name="宁夏卫视" tvg-logo="./pic/logos宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
@@ -2908,7 +2908,7 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8$IPV4•线路14
 #EXTINF:-1 tvg-id="15" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="🥭┃卫视频道",青海卫视
 http://106.53.99.30/tv/migu.php?id=qhws$IPV4•线路15
 #EXTINF:-1 tvg-id="16" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="🥭┃卫视频道",青海卫视
-http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=2025112306003542126bf3d33e4ab3bbb4d63bf2586d46&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=68c0eefdfbe5b8e670aab547baa79deb&ddCalcu=b6e8edc29077e0aeafbd7f4b5eb5aba80e76$IPV4•线路16
+http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20251123080050eb8ddd4f9b7048f6bd657924bd3adf19&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ffa9928a4e937f3057329b4c916ec0c5&ddCalcu=5fcfe0a2c97e9062189ac44eb993273f7350$IPV4•线路16
 #EXTINF:-1 tvg-id="17" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="🥭┃卫视频道",青海卫视
 http://111.43.126.240:9003/hls/59/index.m3u8$IPV4•线路17
 #EXTINF:-1 tvg-id="18" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="🥭┃卫视频道",青海卫视
@@ -3024,7 +3024,7 @@ http://222.188.164.164:65432/rtp/239.49.8.83:8000$IPV4•线路22
 #EXTINF:-1 tvg-id="23" tvg-name="海南卫视" tvg-logo="./pic/logos海南卫视.png" group-title="🥭┃卫视频道",海南卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路23
 #EXTINF:-1 tvg-id="24" tvg-name="海南卫视" tvg-logo="./pic/logos海南卫视.png" group-title="🥭┃卫视频道",海南卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=2025112306003512d064cc710d4e1d88a5573400ae8b72&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=17c4f7ecb12312e672899d87b6297240&ddCalcu=0147e2c27479f0276ebc7b81d29391822e76$IPV4•线路24
+http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20251123080050df062a23ba46424eb8f822da35c2cc71&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c44304907ae0dd8574b796265f4c5e02&ddCalcu=2c04ee42537c0044f950672a6e907dbd4875$IPV4•线路24
 #EXTINF:-1 tvg-id="25" tvg-name="海南卫视" tvg-logo="./pic/logos海南卫视.png" group-title="🥭┃卫视频道",海南卫视
 http://ygbh.site/php/bfgd.php?id=473$IPV4•线路25
 #EXTINF:-1 tvg-id="26" tvg-name="海南卫视" tvg-logo="./pic/logos海南卫视.png" group-title="🥭┃卫视频道",海南卫视
@@ -3184,7 +3184,7 @@ http://m.061899.xyz/mg/btws$IPV4•线路12
 #EXTINF:-1 tvg-id="13" tvg-name="兵团卫视" tvg-logo="./pic/logos兵团卫视.png" group-title="🥭┃卫视频道",兵团卫视
 http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路13
 #EXTINF:-1 tvg-id="14" tvg-name="兵团卫视" tvg-logo="./pic/logos兵团卫视.png" group-title="🥭┃卫视频道",兵团卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=202511230600358a3a1643854140d998a29d46aa2870f8&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20251123060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.89&SecurityKey=20251123060035&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e15f20c245d332f05b8dd4a2c1325b5f&ddCalcu=fe51eb525f6220301cc224a54dd3d382bf50$IPV4•线路14
+http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=202511230800501849ca9889754d2288c4446d0a427f3f&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20251123080050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.88&SecurityKey=20251123080050&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0a554e0fe99a71f7d0b04075bb0c176c&ddCalcu=c06ae752156c400eb0bf5e79094a07b10fd7$IPV4•线路14
 #EXTINF:-1 tvg-id="15" tvg-name="兵团卫视" tvg-logo="./pic/logos兵团卫视.png" group-title="🥭┃卫视频道",兵团卫视
 http://111.43.126.240:9003/hls/66/index.m3u8$IPV4•线路15
 #EXTINF:-1 tvg-id="16" tvg-name="兵团卫视" tvg-logo="./pic/logos兵团卫视.png" group-title="🥭┃卫视频道",兵团卫视
@@ -3328,33 +3328,29 @@ http://ali.hlspull.yximgs.com/live/167_fhzw.flv$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://live4play.uk/livehttpplay?channel_id=20065$IPV4•线路3
+http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://live4play.uk/livehttpplay?channel_id=30014$IPV4•线路4
+http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fhzw&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路5
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路6
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$IPV4•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$IPV4•线路7
+http://r.jdshipin.com/cCCzW$IPV4•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$IPV4•线路8
+http://vallest.uk/livehttpplay?channel_id=30014$IPV4•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://r.jdshipin.com/cCCzW$IPV4•线路9
+https://cdn6.101.qzz.io/163189/fhzw$IPV4•线路9
 #EXTINF:-1 tvg-id="10" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://vallest.uk/livehttpplay?channel_id=30014$IPV4•线路10
+http://116.162.127.31:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路10
 #EXTINF:-1 tvg-id="11" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-https://cdn6.101.qzz.io/163189/fhzw$IPV4•线路11
+http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路11
 #EXTINF:-1 tvg-id="12" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://116.162.127.31:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路12
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$IPV4•线路12
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路13
+https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$IPV4•线路13
 #EXTINF:-1 tvg-id="14" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$IPV4•线路14
-#EXTINF:-1 tvg-id="15" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$IPV4•线路15
-#EXTINF:-1 tvg-id="16" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
-https://live.tvfix.org/live/fhzw/index.m3u8$IPV4•线路16
+https://live.tvfix.org/live/fhzw/index.m3u8$IPV4•线路14
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
 http://ali.hlspull.yximgs.com/live/167_fhzx.flv$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
@@ -3364,35 +3360,31 @@ http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://live4play.uk/livehttpplay?channel_id=20066$IPV4•线路5
+https://vx65267199.18cn.dpdns.org/3.m3u8$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://live4play.uk/livehttpplay?channel_id=30015$IPV4•线路6
+http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-https://vx65267199.18cn.dpdns.org/3.m3u8$IPV4•线路7
+http://r.jdshipin.com/0Rp07$IPV4•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$IPV4•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://r.jdshipin.com/0Rp07$IPV4•线路9
+https://cdn6.101.qzz.io/163189/fhzx$IPV4•线路9
 #EXTINF:-1 tvg-id="10" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$IPV4•线路10
+https://www.qiushui.vip/gj/mk.php?ip_port=node-111-20-163-124.speedtest.cn:8001&id=live1200$IPV4•线路10
 #EXTINF:-1 tvg-id="11" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-https://cdn6.101.qzz.io/163189/fhzx$IPV4•线路11
+http://116.162.127.31:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路11
 #EXTINF:-1 tvg-id="12" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-https://www.qiushui.vip/gj/mk.php?ip_port=node-111-20-163-124.speedtest.cn:8001&id=live1200$IPV4•线路12
+http://171.213.159.16:4022/rtp/239.93.0.118:2191$IPV4•线路12
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://116.162.127.31:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路13
+http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路13
 #EXTINF:-1 tvg-id="14" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://171.213.159.16:4022/rtp/239.93.0.118:2191$IPV4•线路14
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv$IPV4•线路14
 #EXTINF:-1 tvg-id="15" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$IPV4•线路15
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$IPV4•线路15
 #EXTINF:-1 tvg-id="16" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv$IPV4•线路16
+https://live.tvfix.org/live/fwzx/index.m3u8$IPV4•线路16
 #EXTINF:-1 tvg-id="17" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$IPV4•线路17
-#EXTINF:-1 tvg-id="18" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-https://live.tvfix.org/live/fwzx/index.m3u8$IPV4•线路18
-#EXTINF:-1 tvg-id="19" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
-https://live.tvfix.org/live/fhzx/index.m3u8$IPV4•线路19
+https://live.tvfix.org/live/fhzx/index.m3u8$IPV4•线路17
 #EXTINF:-1 tvg-id="1" tvg-name="tvN" tvg-logo="./pic/logostvN.png" group-title="🍓┃湾区频道",tvN
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo="./pic/logosPopC.png" group-title="🍓┃湾区频道",PopC
@@ -3552,9 +3544,9 @@ rtmp://f13h.mine.nu/sat/tv331$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="东森超视" tvg-logo="./pic/logos东森超视.png" group-title="🍓┃湾区频道",东森超视
 rtmp://f13h.mine.nu:1935:1935/sat/tv331$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="./pic/logos东森电影.png" group-title="🍓┃湾区频道",东森电影
-http://live4play.uk/livehttpplay?channel_id=20104$IPV4•线路1
+http://183.57.249.188:8183/tsfile/live/1013_1.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="东森电影" tvg-logo="./pic/logos东森电影.png" group-title="🍓┃湾区频道",东森电影
-http://183.57.249.188:8183/tsfile/live/1013_1.m3u8$IPV4•线路2
+http://live4play.uk/livehttpplay?channel_id=20104$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="Now剧集" tvg-logo="./pic/logosNow剧集.png" group-title="🍓┃湾区频道",Now剧集
 http://hls.168.us.kg/u/333/master.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影台" tvg-logo="./pic/logosNow星影台.png" group-title="🍓┃湾区频道",Now星影台
@@ -3740,13 +3732,13 @@ http://z.b.bkpcp.top/m.php?id=cctv4o$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV4欧洲咪咕" tvg-logo="./pic/logosCCTV4欧洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4欧洲咪咕
 http://106.116.126.75:4022/rtp/239.254.201.205:4220$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV4欧洲咪咕" tvg-logo="./pic/logosCCTV4欧洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4欧洲咪咕
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=20251123060033bd3f3ebb090f4c37a5b29a6c176b99f1&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20251123060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.13.250.89&SecurityKey=20251123060033&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f3b90aae6a3bf3152f6794736bb41deb&ddCalcu=bfe3edb2198400baba6e367a439b7f63f125$IPV4•线路3
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=20251123080048007589442ae64c128c464b0686dd7070&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20251123080048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.13.250.88&SecurityKey=20251123080048&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=42d28c33ddc8d6586347ef4f2014a8b8&ddCalcu=84b2e8d2a284801c0323fd4dfce87d463568$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4欧洲咪咕" tvg-logo="./pic/logosCCTV4欧洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4欧洲咪咕
 http://php.cqshushu.ggff.net/jzb.php?id=cctv4o&公众号【医工学习日志】$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4美洲咪咕" tvg-logo="./pic/logosCCTV4美洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4美洲咪咕
 http://z.b.bkpcp.top/m.php?id=cctv4m$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV4美洲咪咕" tvg-logo="./pic/logosCCTV4美洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4美洲咪咕
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=20251123060033ff084a6fe8f84cccb0dd6b2cc90ca24c&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251123060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.89&SecurityKey=20251123060033&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=cab74975b734bcb21108a2ee2db3af38&ddCalcu=8c3aefb2a78340b9d725ebe723a48b0c1b12$IPV4•线路2
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=202511230800484cf52b0b00d9457bab0595a6acbfecd6&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251123080048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.88&SecurityKey=20251123080048&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=10b568f867df2f0f7de9d279e2d84ae1&ddCalcu=11e0eab2458860d82fe896772ddf92efd07f$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV4美洲咪咕" tvg-logo="./pic/logosCCTV4美洲咪咕.png" group-title="🍉┃咪咕频道",CCTV4美洲咪咕
 http://php.cqshushu.ggff.net/jzb.php?id=cctv4m&公众号【医工学习日志】$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
@@ -3802,7 +3794,7 @@ http://j.s.bkpcp.top/jj/hinws$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="海南卫视咪咕" tvg-logo="./pic/logos海南卫视咪咕.png" group-title="🍉┃咪咕频道",海南卫视咪咕
 http://t.061899.xyz/tl/tl.php?id=hinws$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="新片映厅咪咕" tvg-logo="./pic/logos新片映厅咪咕.png" group-title="🍉┃咪咕频道",新片映厅咪咕
-http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=202511230600390653debf01714c339c4b8b0a5ebd2c1e&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20251123060039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=106.13.250.89&SecurityKey=20251123060039&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3130ad1ac0f962c11a0271f9d48cde0d&ddCalcu=d301ee32d09ca08d41da9cf01f792602ac11$IPV4
+http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=20251123080053485e4da152d348f7a030fe803775d23d&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20251123080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=106.13.250.88&SecurityKey=20251123080053&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7adc86828b931e7c8b5649a5dcbaea1a&ddCalcu=a71aead2ec9a80b6c8d258ab9943615eb78c$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="momo亲子" tvg-logo="./pic/logosmomo亲子.png" group-title="🐟┃少儿频道",momo亲子
 rtmp://f13h.mine.nu/sat/tv761$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓动画" tvg-logo="./pic/logos黑莓动画.png" group-title="🐟┃少儿频道",黑莓动画
@@ -3908,7 +3900,7 @@ https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b
 #EXTINF:-1 tvg-id="2" tvg-name="黑莓电影" tvg-logo="./pic/logos黑莓电影.png" group-title="🐶┃影视频道",黑莓电影
 http://111.43.126.240:9003/hls/99/index.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="纬来电影" tvg-logo="./pic/logos纬来电影.png" group-title="🐶┃影视频道",纬来电影
-http://live4play.uk/livehttpplay?channel_id=20199$IPV4
+http://iptv.4666888.xyz/iptv2A.php?id=40$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="靖天映画" tvg-logo="./pic/logos靖天映画.png" group-title="🐶┃影视频道",靖天映画
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="靖天映画" tvg-logo="./pic/logos靖天映画.png" group-title="🐶┃影视频道",靖天映画
