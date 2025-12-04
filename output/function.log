@@ -1,10 +1,9 @@
-2025-12-04 19:24:25,824 - INFO - url: https://raw.githubusercontent.com/lxxcp/live/6487d6c3b29efb7d5449cffe2e1e5547d44b92bf/sxg.txt 成功，判断为txt格式
-2025-12-04 19:24:25,830 - INFO - url: https://raw.githubusercontent.com/lxxcp/live/6487d6c3b29efb7d5449cffe2e1e5547d44b92bf/sxg.txt 成功，包含频道分类: 四川蜀小果, 湖南广电, 北京移动, 江苏银河, 上海全网通
-2025-12-04 19:24:25,909 - INFO - url: https://raw.githubusercontent.com/lwzlinyi/ziyong/refs/heads/main/live 成功，判断为m3u格式
-2025-12-04 19:24:25,910 - INFO - url: https://raw.githubusercontent.com/lwzlinyi/ziyong/refs/heads/main/live 成功，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
-2025-12-04 19:24:26,045 - INFO - url: https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E5%8E%86%E5%B9%B4%E6%98%A5%E6%99%9A.txt 成功，判断为txt格式
-2025-12-04 19:24:27,047 - INFO - url: https://115.190.105.236/vip/qwt.m3u 成功，判断为txt格式
-2025-12-04 19:24:27,965 - INFO - url: https://115.190.105.236/vip/vip.m3u 成功，判断为txt格式
-2025-12-04 19:24:28,082 - ERROR - url: https://live.catvod.com/mq.php?catvod.com=m3u 失败❌, Error: 403 Client Error: Forbidden for url: https://live.catvod.com/mq.php?catvod.com=m3u
-2025-12-04 19:24:29,907 - INFO - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 成功，判断为txt格式
-2025-12-04 19:24:29,908 - INFO - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 成功，包含频道分类: 央视频道, 卫视频道, 港澳台
+2025-12-04 19:28:26,898 - INFO - url: https://raw.githubusercontent.com/lxxcp/live/6487d6c3b29efb7d5449cffe2e1e5547d44b92bf/sxg.txt 成功，判断为txt格式
+2025-12-04 19:28:26,904 - INFO - url: https://raw.githubusercontent.com/lxxcp/live/6487d6c3b29efb7d5449cffe2e1e5547d44b92bf/sxg.txt 成功，包含频道分类: 四川蜀小果, 湖南广电, 北京移动, 江苏银河, 上海全网通
+2025-12-04 19:28:27,045 - INFO - url: https://raw.githubusercontent.com/lwzlinyi/ziyong/refs/heads/main/live 成功，判断为m3u格式
+2025-12-04 19:28:27,045 - INFO - url: https://raw.githubusercontent.com/lwzlinyi/ziyong/refs/heads/main/live 成功，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
+2025-12-04 19:28:27,295 - INFO - url: https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E5%8E%86%E5%B9%B4%E6%98%A5%E6%99%9A.txt 成功，判断为txt格式
+2025-12-04 19:28:28,272 - INFO - url: https://115.190.105.236/vip/qwt.m3u 成功，判断为txt格式
+2025-12-04 19:28:30,030 - INFO - url: https://115.190.105.236/vip/vip.m3u 成功，判断为txt格式
+2025-12-04 19:28:33,454 - INFO - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 成功，判断为txt格式
+2025-12-04 19:28:33,454 - INFO - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 成功，包含频道分类: 央视频道, 卫视频道, 港澳台
