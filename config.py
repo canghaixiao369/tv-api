@@ -11,7 +11,6 @@ source_urls = [
     "https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E5%8E%86%E5%B9%B4%E6%98%A5%E6%99%9A.txt",
     "https://115.190.105.236/vip/qwt.m3u",
     "https://115.190.105.236/vip/vip.m3u",
-    "https://live.catvod.com/mq.php?catvod.com=m3u",
     "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
 
 
