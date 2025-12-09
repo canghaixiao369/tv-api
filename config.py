@@ -8,6 +8,8 @@ source_urls = [
    
     "https://raw.githubusercontent.com/lxxcp/live/6487d6c3b29efb7d5449cffe2e1e5547d44b92bf/sxg.txt",
     "https://raw.githubusercontent.com/lwzlinyi/ziyong/refs/heads/main/live",
+    "https://gongdian.top/tv/iptv",
+    "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
     "https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E5%8E%86%E5%B9%B4%E6%98%A5%E6%99%9A.txt",
     “https://raw.githubusercontent.com/lxxcp/live/refs/heads/main/sxg.txt”,
     "https://raw.githubusercontent.com/ocean2025/ocean/refs/heads/main/lives/live.txt",
